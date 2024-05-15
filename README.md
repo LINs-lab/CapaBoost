@@ -45,6 +45,6 @@ If you find this useful in your research, please consider citing:
   title={Increasing Model Capacity for Free: A Simple Strategy for Parameter Efficient Fine-tuning},
   author={Haobo, SONG and Zhao, Hao and Majumder, Soumajit and Lin, Tao},
   booktitle={The Twelfth International Conference on Learning Representations},
-  year={2023}
+  year={2024}
 }
 ```
