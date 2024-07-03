@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/haobo-song-28a969167/?originalSubdomain=ch">Haobo Song*</a>, <a href="https://marcelluszhao.github.io/">Hao Zhao*</a>, <a href="https://scholar.google.com/citations?user=QSUfCpQAAAAJ&hl=en">Soumajit Majumder</a>, <a href="https://tlin-taolin.github.io/">Tao Lin</a>
 
-**Paper:** [https://openreview.net/forum?id=H3IUunLy8s](https://openreview.net/forum?id=H3IUunLy8s) (accepted at ICLR 2024)
+**Paper:** [http://arxiv.org/abs/2407.01320](http://arxiv.org/abs/2407.01320) (accepted at ICLR 2024)
 
 > TL;DR: We pursue the effective use of parameter-efficient modules (e.g., LoRA and Adapter) from the perspective of boosting model capacity.
 > - We introduce CAPABOOST, a plugin framework that seamlessly integrates with various PEFT methods, such as Adapters and LoRA. Through model pruning and weight-sharing, CAPABOOST
